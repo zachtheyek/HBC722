@@ -1,0 +1,23 @@
+,,no selfcal,selfcal 1,selfcal 2,selfcal 3,corrected selfcal 3
+,RMS (Jy/beam),1.226E-04,7.394E-05,5.705E-05,5.733E-05,-
+MMS1,Peak flux (Jy/beam),0.006,0.013,0.013,0.014,0.026
+,Integrated flux (Jy),0.010,0.017,0.017,0.017,0.030
+,Signal to noise ratio [peak flux/RMS],49,176,228,248,--
+MMS2,Peak flux (Jy/beam),0.004,0.006,0.007,0.007,0.009
+,Integrated flux (Jy),0.005,0.007,0.007,0.007,0.009
+,Signal to noise ratio [peak flux/RMS],33,81,123,123,--
+Humphrey,Peak flux (Jy/beam),0.001,0.003,0.004,0.004,0.005
+,Integrated flux (Jy),0.003,0.003,0.003,0.004,0.005
+,Signal to noise ratio [peak flux/RMS],8,41,70,67,--
+MMS 3 - binary source 1 (left),Peak flux (Jy/beam),0.002,0.003,0.003,0.003,0.008
+,Integrated flux (Jy),0.015,0.007,0.007,0.008,0.018
+,Signal to noise ratio [peak flux/RMS],16,41,53,52,--
+MMS 3 - binary source 2 (right),Peak flux (Jy/beam),0.002,0.001,0.001,0.002,0.004
+,Integrated flux (Jy),0.010,0.002,0.002,0.005,0.016
+,Signal to noise ratio [peak flux/RMS],16,14,18,28,--
+MMS 4,Peak flux (Jy/beam),0.002,0.004,0.004,0.005,0.024
+,Integrated flux (Jy),0.005,0.006,0.006,0.007,0.036
+,Signal to noise ratio [peak flux/RMS],16,54,70,81,--
+HBC722,Peak flux (Jy/beam),0.001,0.003,0.003,0.003,0.003
+,Integrated flux (Jy),0.002,0.003,0.003,0.003,0.003
+,Signal to noise ratio [peak flux/RMS],8,41,53,51,--
