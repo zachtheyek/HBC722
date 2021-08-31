@@ -1,5 +1,3 @@
-# HBC722
-
 This repository is meant to accompany the publication titled "[Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)" in the Research Notes of the AAS (Volume 4, Number 9). 
 
 ## Contents of Interest
